@@ -13,3 +13,29 @@ h1 {
 a {
   color: white;
 }
+.process, .contact {
+  text-align: center;
+}
+.process h2, .contact h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.process h3, .contact h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.process p, .contact p {
+  font-size: 14px;
+}
+#divide {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
